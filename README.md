@@ -65,7 +65,7 @@
 🍔 **Food Ordering App** – A mobile app for **ordering food from restaurants**, using **Firebase authentication & database**.  
 🏋️ **Gym Management Website** – A web-based **gym membership and attendance system** using **HTML, CSS, JavaScript & MySQL**.  
 
-📌 Check out my projects **[here](#https://github.com/Tejas2913?tab=repositories)** 👨‍💻  
+📌 Check out my projects **[here](https://github.com/Tejas2913?tab=repositories)** 👨‍💻  
 
 ---
 
