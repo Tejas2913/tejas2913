@@ -13,7 +13,7 @@
 - 💬 Ask me about **Kotlin, Python, SQL**
 - 👨‍💻 All of my projects are available at <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 - 📫 How to reach me <a target="_blank" href="mailto:tejasrm2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16AfPs29kIdcF9h4CoUYrngFyhiX8bBud/view?usp=drive_linkview" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1P_0e0yeDwwH5G2eLywz7pRtfaPuWao0f/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
