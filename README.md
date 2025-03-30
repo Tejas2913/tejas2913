@@ -12,10 +12,10 @@
 - 📱 **Android Development** with **Kotlin, Firebase, and Jetpack**.  
 - 💻 **Web Development** using **Python, JavaScript, and SQL**.  
 - ☁️ **Backend & Databases** with **MySQL, Firebase Firestore**.  
-- 🤖 **Machine Learning Enthusiast**, currently exploring **Deep Learning**.  
+- 🤖 **Interested in Machine Learning & Artificial Intelligence**, constantly exploring new advancements..  
 
 💡 **Tech Enthusiast & Continuous Learner:**  
-- 🚀 I enjoy **building innovative projects** and contributing to **open-source**.  
+- 🚀 I enjoy **building innovative projects**.  
 - 📚 Constantly exploring **AI/ML and Full-Stack Development**.  
 - 🎯 Improving my skills in **problem-solving & algorithms**.  
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 💻 Platforms & Tools I Use  
+### 💻 Platforms I Use  
 
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank">
@@ -55,10 +55,6 @@
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
     </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-    </a>
-
 </p>
 
 ---
@@ -67,9 +63,9 @@
 
 🚀 **Salon Booking App** – Android app built with **Kotlin & Firebase** for **easy salon reservations**.  
 🍔 **Food Ordering App** – A mobile app for **ordering food from restaurants**, using **Firebase authentication & database**.  
-🏋️ **Gym Management Website** – A web-based **gym membership and attendance system** using **React & MySQL**.  
+🏋️ **Gym Management Website** – A web-based **gym membership and attendance system** using **HTML, CSS, JavaScript & MySQL**.  
 
-📌 Check out my projects **[here](#)** 👨‍💻  
+📌 Check out my projects **[here](#https://github.com/Tejas2913?tab=repositories)** 👨‍💻  
 
 ---
 
