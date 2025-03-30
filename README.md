@@ -6,21 +6,22 @@
 
 ## 🚀 About Me  
 
-👋 Hi, I'm **Tejas RM**, a tech enthusiast passionate about **software development** and **problem-solving**. I love **building web and mobile applications** and constantly strive to learn new technologies.  
+👋 Hi, I'm **Tejas RM**, a **developer & tech enthusiast** with a passion for **building scalable applications and solving real-world problems**. I love working on **web & mobile development** and exploring **cloud computing & machine learning**.  
 
 🔍 **What I Do:**  
-- 🏗️ Developing **web and mobile applications** using **Kotlin, Python, and JavaScript**.  
-- 🛠️ Working with **MySQL** for efficient database management.  
-- 🤖 Exploring **Machine Learning and Backend Development**.  
+- 📱 **Android Development** with **Kotlin, Firebase, and Jetpack**.  
+- 💻 **Web Development** using **Python, JavaScript, and SQL**.  
+- ☁️ **Backend & Databases** with **MySQL, Firebase Firestore**.  
+- 🤖 **Machine Learning Enthusiast**, currently exploring **Deep Learning**.  
 
-💡 **What Drives Me:**  
-- 🚀 Creating efficient, scalable, and innovative solutions.  
-- 📚 Learning new technologies and improving my coding skills.  
-- 🔧 Solving complex problems and optimizing performance.  
+💡 **Tech Enthusiast & Continuous Learner:**  
+- 🚀 I enjoy **building innovative projects** and contributing to **open-source**.  
+- 📚 Constantly exploring **AI/ML and Full-Stack Development**.  
+- 🎯 Improving my skills in **problem-solving & algorithms**.  
 
 ---
 
-### 🔥 Skills & Tech Stack  
+### 🛠️ Languages & Tools  
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank">
@@ -28,6 +29,9 @@
     </a>
     <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -42,6 +46,35 @@
 
 ---
 
+### 💻 Platforms & Tools I Use  
+
+<p align="left">
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    </a>
+</p>
+
+---
+
+### 📜 Notable Projects  
+
+🚀 **Salon Booking App** – Android app built with **Kotlin & Firebase** for **easy salon reservations**.  
+🍔 **Food Ordering App** – A mobile app for **ordering food from restaurants**, using **Firebase authentication & database**.  
+🏋️ **Gym Management Website** – A web-based **gym membership and attendance system** using **React & MySQL**.  
+
+📌 Check out my projects **[here](#)** 👨‍💻  
+
+---
+
 ### 🌍 Connect with Me  
 
 <p align="left">
@@ -52,7 +85,6 @@
 
 📫 **How to reach me:**  
 - **Email:** [tejasrm2004@gmail.com](mailto:tejasrm2004@gmail.com)  
-- **Website:** <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>  
 - 📄 **Know about my experiences:**  
   <a href="https://drive.google.com/file/d/16AfPs29kIdcF9h4CoUYrngFyhiX8bBud/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume" /></a>  
 
@@ -67,3 +99,5 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tejas2913&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+---
