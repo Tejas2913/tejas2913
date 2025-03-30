@@ -77,7 +77,7 @@
     </a>
 </p>
 
-📫### How to reach me:  
+### 📫 How to reach me:  
 - **Email:** [tejasrm2004@gmail.com](mailto:tejasrm2004@gmail.com)  
 - 📄 **Know about my experiences:**  
   <a href="https://drive.google.com/file/d/16AfPs29kIdcF9h4CoUYrngFyhiX8bBud/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume" /></a>  
