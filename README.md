@@ -86,7 +86,7 @@
 ### 📫 How to reach me:  
 - **Email:** [tejasrm2004@gmail.com](mailto:tejasrm2004@gmail.com)  
 - 📄 **Know about my experiences:**  
-  <a href="https://drive.google.com/file/d/1ylx4UwtutFdgZAL3ObdLvJNU0rPOYKFW/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000000?style=for-the-badge" alt="Resume" /></a>  
+  <a href="https://drive.google.com/file/d/1HmUpzBS7abzWseRHyqzoAUno_2NaqfwY/view?usp=drive_link" alt="Resume" /></a>  
 
 ---
 
