@@ -85,8 +85,8 @@
 
 ### 📫 How to reach me:  
 - **Email:** [tejasrm2004@gmail.com](mailto:tejasrm2004@gmail.com)  
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1HmUpzBS7abzWseRHyqzoAUno_2NaqfwY/view?usp=drive_link)  
-
+- **Know about my experiences:** [Resume](https://drive.google.com/file/d/1HmUpzBS7abzWseRHyqzoAUno_2NaqfwY/view?usp=drive_link)  
+- **My Portfolio:** [Tejas R M Portfolio](https://tejasrm-github-io.vercel.app/)
 ---
 
 ### 📊 GitHub Stats  
