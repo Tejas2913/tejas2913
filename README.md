@@ -97,14 +97,20 @@ An anomaly detection project on ECG data using a Dense Autoencoder, with emphasi
 
 ## Technical Skills
 
-| | |
+| Category | Technologies & Skills |
 |---|---|
-| **Languages** | Python, Java, JavaScript, SQL, Kotlin |
-| **Backend & Web** | FastAPI, Django, REST APIs, JWT authentication, React |
-| **Databases** | MySQL, MongoDB, Firebase / Cloud Firestore, Supabase |
-| **ML & Data** | Scikit-learn, PyTorch, TensorFlow, NumPy, Pandas, model evaluation |
-| **Vision & NLP** | OpenCV, MediaPipe, OCR, spaCy, text classification |
-| **Testing** | pytest, automated testing, AI-assisted test generation |
+| **Programming Languages** | Python, Java, JavaScript, SQL, Kotlin |
+| **Backend Development** | FastAPI, Django, REST APIs, JWT Authentication |
+| **Frontend Development** | React, HTML, CSS |
+| **Machine Learning** | Scikit-learn, Classification, Ensemble Learning, Anomaly Detection, Model Evaluation |
+| **Deep Learning** | PyTorch, TensorFlow, Neural Networks, Autoencoders |
+| **Generative AI & LLMs** | LLM Integration, Prompt Engineering, Gemini API, AI-Assisted Test Generation |
+| **NLP & Text Processing** | Text Classification, TF-IDF, spaCy |
+| **Computer Vision** | OpenCV, MediaPipe, OCR |
+| **Data Science & Analytics** | NumPy, Pandas, Matplotlib |
+| **Geospatial AI** | Google Earth Engine, Landsat Data, Spatial Cross-Validation, SHAP |
+| **Databases** | MySQL, MongoDB, Firebase, Cloud Firestore, Supabase PostgreSQL |
+| **Software Testing** | pytest, Automated Testing, Test Generation, Test Validation |
 | **Tools & Deployment** | Git, GitHub, VS Code, Vercel, Render |
 
 ---
